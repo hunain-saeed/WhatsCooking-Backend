@@ -24,6 +24,5 @@ env.bak/
 venv.bak/
 
 # ML models
-models/
 models/rfmodel.joblib
 
